@@ -15,7 +15,6 @@ sidebar:
     email: p18lach@ionio.gr
     phone: 691 111 1111
     citizenship: Greek
-    website: blogg.webjeda.com #do not add http://
     github: chrislach1
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -53,9 +52,9 @@ education:
       time: 2009 - 2014
  
 experiences:
-      details: |
-        As a student i don't have a lot of experience but i hope tha i will get some soon by studying and practising more
-        in my free time.
+     details: |
+      As a student i don't have a lot of experience but i hope tha i will get some soon by studying and practising more
+      in my free time.
    
 projects:
     intro: >
