@@ -42,9 +42,9 @@ career-profile:
       I am studying Informatics at Ionian University.My university's base is an island of Greece which is called Corfu.I really like
       informatics and computer sience.The most exciting part of this sience is that we learn a lot of different programming languages
       and many other interesting things such as web security and databases.I think that this sience gives us the opportunity to expand 
-      our horizons and make our lives easier.Aso computer sience has a really big range to work
+      our horizons and make our lives easier.Aso computer sience has a really big range to work with.
 education:
-    - degree: Degree from High school and degrees in foreign languages 
+    - degree: Degree from High school 
       time: 2006 - 2018
       details: |
         I really liked school and i was a good student.I had a great time back in high school with my friends and classmates.
@@ -69,16 +69,16 @@ skills:
 
     toolset:
       - name: Python 
-        level: 70%
+        level: 55%
 
       - name: Java
-        level: 58%
+        level: 45%
 
       - name: c++
-        level: 80%
+        level: 60%
 
       - name: HTML5
-        level: 70%
+        level: 50%
 
       - name: Sketch & Photoshop
         level: 60%
