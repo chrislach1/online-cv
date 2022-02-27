@@ -52,12 +52,11 @@ education:
       time: 2009 - 2014
  
 experiences:
-     details: |
-      As a student i don't have a lot of experience but i hope tha i will get some soon by studying and practising more
-      in my free time.
+     details: As a student i don't have a lot of experience but i hope tha i will get some soon by studying and practising more
+              in my free time.
    
 projects:
-    intro: >
+    intro:
       i don't have published projects.The only projects that I have done are mainly projects tha I had to do in some subjects.
       At these projects i worked with my classmates to lead the problem to the solution and we managed to do that. I also want 
       to start some new projects soon that i will work on my own, especially in my free time and my goal is to learn a lot of new 
